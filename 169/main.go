@@ -4,6 +4,7 @@ import "fmt"
 
 //!! 摩尔投票
 //* git 真难啊！test
+//// for test
 
 func mergeSort(arr *[]int, l int, r int) {
 	if l >= r {//不可再分隔,只有一个元素
